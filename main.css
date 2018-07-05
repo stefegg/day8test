@@ -1,0 +1,18 @@
+.invert {
+  color:white;
+  background-color:black;
+}
+
+.invert h1 {
+  text-align: center;
+  background-color: green;
+}
+.sepia {
+  color: brown;
+  background-color: #ecc297;
+}
+
+.murica {
+  color: red;
+  background-color: blue;
+}
